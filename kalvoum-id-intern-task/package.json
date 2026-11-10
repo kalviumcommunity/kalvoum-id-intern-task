@@ -1,0 +1,9 @@
+{
+  "name": "kalvoum-id-intern-task",
+  "version": "1.0.0",
+  "description": "Fix the Lesson: a small hands-on task for Instructional Designer intern candidates",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
